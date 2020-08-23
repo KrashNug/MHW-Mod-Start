@@ -1,0 +1,9 @@
+C:\Users\Val\Documents\SharpDevelop Projects\MHW Mod Start\MHW Mod Start\bin\Debug\MHW Mod Start.exe.config
+C:\Users\Val\Documents\SharpDevelop Projects\MHW Mod Start\MHW Mod Start\bin\Debug\MHW Mod Start.exe
+C:\Users\Val\Documents\SharpDevelop Projects\MHW Mod Start\MHW Mod Start\bin\Debug\MHW Mod Start.pdb
+C:\Users\Val\Documents\SharpDevelop Projects\MHW Mod Start\MHW Mod Start\obj\Debug\MHW Mod Start.csprojResolveAssemblyReference.cache
+C:\Users\Val\Documents\SharpDevelop Projects\MHW Mod Start\MHW Mod Start\obj\Debug\MHW Mod Start.exe
+C:\Users\Val\Documents\SharpDevelop Projects\MHW Mod Start\MHW Mod Start\obj\Debug\MHW Mod Start.pdb
+C:\Users\Val\Documents\SharpDevelop Projects\MHW Mod Start\MHW Mod Start\obj\Debug\MHW_Mod_Start.MainForm.resources
+C:\Users\Val\Documents\SharpDevelop Projects\MHW Mod Start\MHW Mod Start\obj\Debug\MHW Mod Start.csproj.GenerateResource.Cache
+C:\Users\Val\Documents\SharpDevelop Projects\MHW Mod Start\MHW Mod Start\obj\Debug\MHW_Mod_Start.ModEditor.resources

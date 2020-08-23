@@ -1,0 +1,27 @@
+[2020-08-23 18:41:58] Started 2020.8.2.3
+[2020-08-23 18:41:58] Config.json loaded
+[2020-08-23 18:41:58] Versions.json loaded
+[2020-08-23 18:41:58] en-US.json loaded
+[2020-08-23 18:41:59] MonsterData.json loaded
+[2020-08-23 18:41:59] PlayerData.json loaded
+[2020-08-23 18:41:59] Memory.json loaded
+[2020-08-23 18:41:59] Default.xaml loaded
+[2020-08-23 18:41:59] State Machine: None (65 ms) > CheckingForUpdates
+[2020-08-23 18:41:59] Searching for updates (You can disable this feature in file 'Config.json')!
+[2020-08-23 18:42:01] State Machine: CheckingForUpdates (1469 ms) > WaitingForProcess
+[2020-08-23 18:42:01] State Machine: WaitingForProcess (66 ms) > ProcessFound
+[2020-08-23 18:42:01] State Machine: ProcessFound (50 ms) > FastPatternScanning
+[2020-08-23 18:42:01] Found 'PlayerNamePattern' at address 0x14809B1E7
+[2020-08-23 18:42:01] Found 'PlayerBuffPattern' at address 0x1621853B1
+[2020-08-23 18:42:01] Found 'CurrentPlayerNamePattern' at address 0x146E7DE09
+[2020-08-23 18:42:01] Found 'CurrentWeaponPattern' at address 0x141F8581D
+[2020-08-23 18:42:01] Found 'MonsterPattern' at address 0x1402415C9
+[2020-08-23 18:42:01] Found 'LobbyStatusPattern' at address 0x146EB5474
+[2020-08-23 18:42:01] Found 'SelectedMonsterPattern' at address 0x141A1D9E2
+[2020-08-23 18:42:01] Found 'PlayerDamagePattern' at address 0x1419E52B7
+[2020-08-23 18:42:01] Found 'DamageOnScreenPattern' at address 0x14045044B
+[2020-08-23 18:42:01] State Machine: FastPatternScanning (54 ms) > PatternScanning
+[2020-08-23 18:42:01] State Machine: PatternScanning (58 ms) > Working
+[2020-08-23 18:42:01] Match Range: 1402415C9 - 1621853B1
+[2020-08-23 18:45:28] State Machine: Working (206821 ms) > WaitingForProcess
+[2020-08-23 18:45:30] Ended
